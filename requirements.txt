@@ -2,4 +2,4 @@ einops==0.8.0
 streamlit==1.21.0
 transformers==4.28.1
 --find-links https://download.pytorch.org/whl/torch_stable.html
-torch==1.2.0+cpu
+torch==1.7.1+cpu
