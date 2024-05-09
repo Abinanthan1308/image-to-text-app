@@ -80,7 +80,6 @@ Pygments==2.17.2
 PySocks 
 python-dateutil==2.9.0.post0
 python-json-logger==2.0.7
-pywin32
 pywinpty
 PyYAML 
 pyzmq==26.0.3
