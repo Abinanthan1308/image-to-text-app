@@ -6,10 +6,6 @@ import warnings
 
 warnings.filterwarnings("ignore", message="`resume_download` is deprecated")
 
-from huggingface_hub import hf_hub_download
-
-hf_hub_download(repo_id="...", filename="...")
-
 model_id = "vikhyatk/moondream2"
 revision = "2024-04-02"
 model = AutoModelForCausalLM.from_pretrained(
